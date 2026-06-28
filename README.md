@@ -1,7 +1,7 @@
 # Allin1APP
 
-Allin1APP is a lightweight Windows launcher that lets you keep multiple apps inside one simple desktop app. Instead of having many shortcuts on your desktop, you can add your favorite programs to Allin1APP, organize them by category, and launch them from one place.
-
+Allin1APP is a lightweight Windows launcher that lets you keep multiple apps inside one simple desktop app. Instead of having many shortcuts on your desktop, you can add your favorite programs to Allin1APP, organize them by category, and launch them from one place. Download the latest version from the [Releases page](https://github.com/GamrGamr/Allin1APP/releases/tag/v1).
+https://github.com/GamrGamr/Allin1APP/releases/tag/v1
 ## Features
 
 - Add `.exe` apps and `.lnk` shortcuts
