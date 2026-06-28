@@ -50,12 +50,12 @@ Use this if the shortcut points to a special app, Microsoft Store app, game laun
 If an app stops opening because the file moved or the shortcut was deleted:
 
 1. Open Allin1APP.
-2. Go to **Apps → Update App Path**.
+2. Go to **Apps > Update App Path**.
+3. Select the broken app.
+4. Choose the new `.exe` or `.lnk` file.
 
 ## Notes
 
 All app data is saved locally on your computer. Allin1APP does not include any preloaded apps, and each user creates their own setup.
 
 No Python installation is required when using the released `.exe`.
-3. Select the broken app.
-4. Choose the new `.exe` or `.lnk` file.
