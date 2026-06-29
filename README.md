@@ -12,15 +12,17 @@ Download the latest version from the [Releases page](https://github.com/GamrGamr
 ## Features
 
 - Add `.exe` apps and `.lnk` shortcuts
+- Drag and drop `.exe` apps or `.lnk` shortcuts into the app
 - Import desktop shortcuts in bulk
-- Choose a category for each imported shortcut
-- Review and rename imported shortcuts before adding them
+- Choose a category for each imported or dropped item
+- Review and rename items before adding them
 - Organize apps into categories
 - Favorites row for frequently used apps
 - Custom app icons
 - Rename apps and categories
 - Move apps between categories
 - Reorder apps and categories
+- Delete one or multiple categories
 - Dark mode and creamy light mode
 - Minimize to system tray
 - Optional Start with Windows
@@ -45,6 +47,20 @@ Windows may show a security warning because the app is not code-signed.
 4. Pick a category or create a new one.
 5. Choose the name you want to show in Allin1APP.
 
+### Drag and Drop Apps
+
+You can drag `.exe` apps or `.lnk` shortcuts from File Explorer or your desktop into Allin1APP.
+
+1. Drag one or more `.exe` or `.lnk` files into the Allin1APP window.
+2. Review the list of dropped files.
+3. Choose a default category.
+4. Review or change categories for individual items.
+5. Review or rename items before adding them.
+
+Dropped `.lnk` shortcuts are copied into Allin1APP's local app data, so deleting the original shortcut will not break the imported app entry.
+
+Dropped `.exe` files are not copied. If the `.exe` is on your desktop and you delete it later, the app entry will stop working.
+
 ### Import Desktop Shortcuts
 
 Use this if you want to clean up your desktop quickly.
@@ -52,9 +68,10 @@ Use this if you want to clean up your desktop quickly.
 1. Open Allin1APP.
 2. Go to **Apps > Import Desktop Shortcuts**.
 3. Select one or more shortcuts.
-4. Choose a category for each shortcut.
-5. Review the names before importing.
-6. After importing, you can delete the original desktop shortcuts.
+4. Choose a default category.
+5. Review or change categories for individual shortcuts.
+6. Review the names before importing.
+7. After importing, you can delete the original desktop shortcuts.
 
 Imported `.lnk` shortcuts are copied into Allin1APP's local app data, so deleting the desktop shortcut will not break the imported app entry.
 
@@ -67,6 +84,17 @@ For portable apps, move the whole app folder somewhere safe first, for example:
 `Documents\Apps`
 
 Then add the `.exe` from that folder.
+
+## Managing Categories
+
+Use the **Categories** menu to:
+
+- Rename a category
+- Delete one category
+- Delete multiple categories
+- Move categories up or down
+
+When deleting categories, Allin1APP warns you if they contain apps or shortcuts. If you confirm, those entries are removed from Allin1APP too.
 
 ## Fix a Broken App Path
 
