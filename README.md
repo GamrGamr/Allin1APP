@@ -136,3 +136,11 @@ To remove it:
 - Allin1APP starts clean with no preloaded apps.
 - Each Windows user has their own saved setup.
 - The optional update checker is off by default and can be enabled in **Settings > Auto Update Check**.
+
+## Usage Rights
+
+Foculume is proprietary software.
+
+All rights reserved. You may download and use the official released executable for personal use. You may not copy, modify, redistribute, reverse engineer, rebrand, resell, or create derivative versions of Foculume without written permission from the owner.
+
+The Foculume name, logo, design, and application are owned by the creator.
