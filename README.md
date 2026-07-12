@@ -139,8 +139,8 @@ To remove it:
 
 ## Usage Rights
 
-Foculume is proprietary software.
+Allin1APP is proprietary software.
 
-All rights reserved. You may download and use the official released executable for personal use. You may not copy, modify, redistribute, reverse engineer, rebrand, resell, or create derivative versions of Foculume without written permission from the owner.
+All rights reserved. You may download and use the official released executable for personal use. You may not copy, modify, redistribute, reverse engineer, rebrand, resell, or create derivative versions of Allin1APP without written permission from the owner.
 
-The Foculume name, logo, design, and application are owned by the creator.
+The Allin1APP name, logo, design, and application are owned by the creator.
